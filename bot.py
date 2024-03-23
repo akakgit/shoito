@@ -8,7 +8,7 @@ import time
 
 safer = lambda t: urllib.parse.quote_plus(t)
 
-token = '7178870665:AAF-EV-APn8uAqroh4HKZu7bzYPyaGhJABM'
+token = '6375529286:AAHe15GOT9dvhORr4RTB4XSBxCGCvP04PLo'
 bot = telebot.TeleBot(token)
 
 def gen_audio_video(text, message):
